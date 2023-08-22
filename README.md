@@ -14,3 +14,5 @@
 - [x] Basic socket chat
 - [x] Basic pay function
 - [x] Basic login function
+- [x] Basic local chat to gpt function
+- [x] Basic switch model function
