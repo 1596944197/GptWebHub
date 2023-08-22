@@ -3,10 +3,11 @@
 
 # TODO
 - [ ] link autogpt mode
-- [ ] a power calendar page
+- [ ] a calendar page
 - [ ] draw picture mode
 - [ ] specify user chat mode
 - [ ] pwa test
+- [ ] music radio station
 
 # DONE
 - [x] Basic file storage
