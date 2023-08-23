@@ -8,6 +8,7 @@
 - [ ] specify user chat mode
 - [ ] pwa test
 - [ ] music radio station
+- [ ] Login bind config
 
 # DONE
 - [x] Basic file storage
